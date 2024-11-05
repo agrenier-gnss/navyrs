@@ -1,0 +1,8 @@
+[package]
+name = "navyrs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]  
+rinex = { path = "../Various_Softwares/rinex/rinex" }
+
